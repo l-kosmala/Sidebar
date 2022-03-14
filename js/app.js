@@ -1,5 +1,5 @@
 const btnOpen = document.querySelector('.sidebar__toggle');
-btnClose = document.querySelector('.close-btn');
+const btnClose = document.querySelector('.close-btn');
 const sidebar = document.querySelector('.sidebar');
 
 btnOpen.addEventListener('click', function () {
